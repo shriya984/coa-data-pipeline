@@ -1,0 +1,872 @@
+[
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/search_arch.php?lang=1&level=1&linkid=&lid=289&lang=1",
+    "resource_type": "document",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/bootstrap.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/owl.carousel.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/font-awesome.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/style.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/stylecss.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-1.10.2.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/accessibility.inc.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.bpopup.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/bootstrap.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/owl.carousel.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.easy-ticker.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/custom.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/blue_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/yellow_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/pink_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/login.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/emblm.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/logo-coa.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/search_button.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/whatsapp.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-D46XjDYu.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-BCTtbDp3.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/index.html",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/inside-building.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Medium.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Bold.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff2?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/search_arch.php?lang=1&level=1&linkid=&lid=289&lang=1",
+    "resource_type": "document",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/ChatBotIcon-zZ6nkxQd.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/bootstrap.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/owl.carousel.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/font-awesome.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/style.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/stylecss.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-1.10.2.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/accessibility.inc.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.bpopup.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/bootstrap.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/owl.carousel.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.easy-ticker.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/custom.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/blue_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/yellow_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/pink_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/login.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/emblm.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/logo-coa.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/search_button.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/whatsapp.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-D46XjDYu.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-BCTtbDp3.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/index.html",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Bold.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Medium.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/inside-building.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff2?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/ChatBotIcon-zZ6nkxQd.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/search_arch2.php?lang=1&level=1&linkid=&lid=289&searCat=1",
+    "resource_type": "document",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/bootstrap.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/owl.carousel.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/font-awesome.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/style.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/stylecss.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-1.10.2.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/accessibility.inc.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.bpopup.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/bootstrap.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/owl.carousel.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.easy-ticker.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/custom.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/blue_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/yellow_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/pink_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/login.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/emblm.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/logo-coa.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/search_button.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/whatsapp.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/scripts/clientChk/jsValidatorv4.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/scripts/clientChk/js-config.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/captcha/captcha.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/captcha/php_captcha.php",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/captcha/reload_icon.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-D46XjDYu.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-BCTtbDp3.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/index.html",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Bold.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Medium.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/inside-building.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff2?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/captcha/ajax_captcha.php?sid=0.9344614059578462",
+    "resource_type": "xhr",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/ChatBotIcon-zZ6nkxQd.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "POST",
+    "url": "https://coa.gov.in/search_architectResult.php?lang=1&level=1&linkid=&lid=289",
+    "resource_type": "document",
+    "post_data": "val_sub=1&searCat=1&arc_name=Amol&m_name=&l_name=&cap_code=Rgg9pH&T3=RGG9pH&submit=Search"
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/bootstrap.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/owl.carousel.min.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/font-awesome.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_css/style.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/stylecss.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-1.10.2.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/accessibility.inc.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.bpopup.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/bootstrap.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/owl.carousel.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/jquery.easy-ticker.min.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_js/custom.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/js/jqueryui/jquery-ui.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/blue_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/yellow_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/pink_box.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/login.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/emblm.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/logo-coa.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/search_button.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/whatsapp.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/stylecss.php",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/accessibilitycss.php",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/scripts/clientChk/jsValidatorv4.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/scripts/clientChk/js-config.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/app/admin/captcha/captcha.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/top_ic.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/images/back_bt.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-D46XjDYu.css",
+    "resource_type": "stylesheet",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/index-BCTtbDp3.js",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/index.html",
+    "resource_type": "script",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Bold.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue-Medium.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/HelveticaNeue.woff",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/new_images/inside-building.png",
+    "resource_type": "image",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/fonts/fontawesome-webfont.woff2?v=4.7.0",
+    "resource_type": "font",
+    "post_data": null
+  },
+  {
+    "method": "GET",
+    "url": "https://coa.gov.in/public/react-module/assets/ChatBotIcon-zZ6nkxQd.png",
+    "resource_type": "image",
+    "post_data": null
+  }
+]
